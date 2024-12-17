@@ -72,7 +72,7 @@ The **output dataset** is available on Google Drive which tags the sticky and no
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Sticky-User-Prediction.git
+   git clone https://github.com/MuhammadAnwarBadat/Sticky-User-Classification-by-Logistic-Regression.git
    cd Sticky-User-Prediction
    ```
 
